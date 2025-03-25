@@ -21,7 +21,7 @@
       <status project="$USER_HOME$/IdeaProjects/hibernate-cascade" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hibernate-create-movie-session-hw" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-work-with-file" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/electricity3" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/electricity3" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-storage2" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-checked-exception" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hb" dbn="PASSIVE" sql="MISSING" />
