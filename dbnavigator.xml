@@ -1,0 +1,53 @@
+<application>
+  <component name="DBNavigator.Application.DatabaseDriverManager">
+    <known-driver-classes>
+      <library checksum="1844538053" path="C:\Users\Asus\AppData\Roaming\JetBrains\IdeaIE2022.2\plugins\DBNavigator\lib\ext\bundled-jdbc-mysql" driver-classes="com.mysql.cj.jdbc.Driver,com.mysql.cj.jdbc.NonRegisteringDriver,com.mysql.jdbc.Driver" />
+    </known-driver-classes>
+  </component>
+  <component name="DBNavigator.Application.FileTypeService">
+    <original-file-types />
+  </component>
+  <component name="DBNavigator.Application.PluginConflictManager">
+    <plugin-conflict-prompted value="false" />
+    <file-types-claimed value="false" />
+  </component>
+  <component name="DBNavigator.Application.PluginStatusManager">
+    <plugin-statuses>
+      <status project="$USER_HOME$/IdeaProjects/jv-array-list4" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-jdbc-intro" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/MateTrain" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate_first_project" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate-configuration-hw" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate-cascade" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate-create-movie-session-hw" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-work-with-file" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/electricity3" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-storage2" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-checked-exception" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hb" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-dependency-injection" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/electricity2" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jdbc2" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate-relations-hw" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-read-from-file2" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/electricity" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-fruit-shop" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hb-proj" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-oop-advanced" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/ArrayListTry" dbn="PASSIVE" sql="MISSING" />
+      <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
+    </plugin-statuses>
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <diagnostics>
+      <developer-mode>
+        <timeout value="10" />
+        <enabled value="false" />
+      </developer-mode>
+      <debug-logging failsafe-errors="false" database-access="false" database-resource="false" />
+      <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
+      <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
+    </diagnostics>
+    <client-id value="F0E29E136B3C4165A3A88E51E061030C" />
+  </component>
+</application>
