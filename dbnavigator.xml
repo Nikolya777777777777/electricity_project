@@ -14,27 +14,28 @@
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
       <status project="$USER_HOME$/IdeaProjects/jv-array-list4" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate-criteria-query" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-jdbc-intro" dbn="ACTIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/MateTrain" dbn="ACTIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/hibernate_first_project" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hibernate-configuration-hw" dbn="ACTIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/hibernate-cascade" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hibernate-create-movie-session-hw" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-work-with-file" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/electricity3" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-storage2" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/jv-checked-exception" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hb" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-read-from-file2" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/electricity" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hb-proj" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/ArrayListTry" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate-cascade" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate_first_project" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/MateTrain" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/jv-checked-exception" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-dependency-injection" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/electricity2" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jdbc2" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hibernate-relations-hw" dbn="ACTIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/jv-read-from-file2" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/electricity" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-fruit-shop" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/hb-proj" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-oop-advanced" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/ArrayListTry" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
   </component>
