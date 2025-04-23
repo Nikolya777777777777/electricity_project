@@ -16,8 +16,8 @@
       <status project="$USER_HOME$/IdeaProjects/jv-array-list4" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hibernate-criteria-query" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-jdbc-intro" dbn="ACTIVE" sql="MISSING" />
-      <status project="$USER_HOME$/IdeaProjects/hibernate-create-movie-session-hw" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hibernate-configuration-hw" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/hibernate-create-movie-session-hw" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-work-with-file" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/electricity3" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-storage2" dbn="PASSIVE" sql="MISSING" />
@@ -40,6 +40,7 @@
       <status project="$USER_HOME$/IdeaProjects/jdbc2" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hibernate-relations-hw" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-fruit-shop" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/demo" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-oop-advanced" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
