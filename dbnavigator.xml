@@ -36,6 +36,7 @@
       <status project="$USER_HOME$/IdeaProjects/hibernate_first_project" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/MateTrain" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-checked-exception" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/IdeaProjects/dm" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/jv-dependency-injection" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/hibernate-shopping-cart-hw" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/IdeaProjects/electricity2" dbn="ACTIVE" sql="MISSING" />
